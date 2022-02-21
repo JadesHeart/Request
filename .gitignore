@@ -1,7 +1,4 @@
-.allure
+target
 .idea
 allure-results
-src
-target
-webDriver
-pom.xml
+.allure
